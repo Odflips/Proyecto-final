@@ -5,7 +5,7 @@ import { toast } from "react-toastify";
 import { useState, useEffect, useRef } from "react";
 import { BiCurrentLocation } from "react-icons/bi";
 import { PiMapPinFill } from "react-icons/pi";
-import Image from "../public/Cloud-background.png"
+
 
 
 function SideBar({
