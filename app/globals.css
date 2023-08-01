@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#aside{
+    background-image: url(../public/Cloud-background.png);
+    background-repeat: no-repeat;
+    background-position: 55% 20%;
+    
+
+    
+}
+
+
