@@ -52,7 +52,7 @@ function Home() {
         {weather && (
           <div className="flex justify-start text-2xl font-bold text-my-white bg-the-black   sm:w-full md:pl-28 lg:pl-10 xl:pl-36 2xl:pl-44">
             <div className="w-80">
-              <h2 className="mb-10 ml-8">Today’s Hightlights</h2>
+              <h2 className="text-center mb-10 ml-8 md:text-right">Today’s Hightlights</h2>
             </div>
           </div>
         )}
